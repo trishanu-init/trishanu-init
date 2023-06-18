@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trishanu-init
 - 👀 I’m interested in Artificial intelligence , Cryptography & Web development
 - 🌱 I’m currently learning Full Stack Web Development, C++ , Python  
-- 💞️ I’m looking to collaborate on a Interesting Open source project.
+- 💞️ I’m looking to collaborate to an Interesting Open source project.
 
 
 <!---
