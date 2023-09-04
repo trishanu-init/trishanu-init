@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/trishanu-init/trishanu-init/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/trishanu-init/trishanu-init/blob/output/github-contribution-grid-snake.svg)
 
 ###
