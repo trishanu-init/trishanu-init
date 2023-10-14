@@ -69,8 +69,4 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/trishanu-init/trishanu-init/blob/output/github-contribution-grid-snake.svg)
-
-###
 [![An image of @panther_trin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/panther_trin)](https://holopin.io/@panther_trin)
