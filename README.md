@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Trishanu Nayak from Ranchi, IN<br><br>-🏢 Upcoming Intern @Fidelity Investments<br>- 🔭 Ex- Web Development Intern @OS-CODE Technologies<br>- 📚 I'm currently learning MERN and DSA<br>- ⚡ In my free time I enjoy Networking with Like-Minded Individuals</p>
+<p align="left">I'm Trishanu Nayak from Bangalore, IN<br><br>-🏢 Software Developer<br><br>- ⛰️ In my free time I enjoy hiking</p>
 
 ###
 
